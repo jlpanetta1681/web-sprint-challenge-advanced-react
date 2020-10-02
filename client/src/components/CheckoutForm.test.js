@@ -47,4 +47,4 @@ expect(successMessage).toBeInTheDocument()
 expect(zip).toHaveValue("30145")
 expect(firstName).toHaveValue("Daniel")
 expect(userName).toBeInTheDocument()
-}
+})
